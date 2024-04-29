@@ -10,7 +10,7 @@ Smart Ventilation System is a embeded system which uses NodeMCU ,Dallas Tempratu
 ### Integrated Sensors
 Utilizes a Dallas temperature sensor and an MQ2 gas sensor for comprehensive environmental monitoring. The temperature sensor ensures optimal ventilation based on ambient temperature, while the gas sensor detects the presence of harmful gases in the surroundings.
 
-<img src="/IMG_20240411_210255.jpg" alt="Sensor Image" width="200" height="200" >  <img src="/Images/IMG_20240411_210311.jpg" alt="Sensor Image" width="200" height="200" >
+<img src="/IMG_20240411_210255.jpg" alt="Sensor Image" width="200" height="200" >  <img src="/IMG_20240411_210311.jpg" alt="Sensor Image" width="200" height="200" >
 
 ### Real-time Monitoring
 Constantly monitors temperature levels and gas presence in real-time to ensure timely response to any changes or hazards.
