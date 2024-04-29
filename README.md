@@ -28,7 +28,7 @@ Activates a buzzer alarm upon detecting the presence of unwanted gases, alerting
 ### Data Transmission to Cloud
 Sends collected sensor data (temperature, gas levels, motor speed, alarm status) to the ThingSpeak cloud platform for remote monitoring and analysis.
 
-<img src="/Screenshot%202024-04-11%20205720.png" alt="Cloud Data" width="600" height="300" >
+<img src="/output on cloud.png" alt="Cloud Data" width="600" height="300" >
 
 ### Remote Access and Control
 Allows users to remotely access the collected data via the ThingSpeak platform, providing insights into environmental conditions and system performance.
